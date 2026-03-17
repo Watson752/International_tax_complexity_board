@@ -4,6 +4,17 @@ A data analytics project that compares tax compliance burden across internationa
 
 This project uses **Python**, **pandas**, and **Power BI** to clean, merge, score, and visualize public tax administration data. The final output is a comparative dashboard that highlights where tax compliance appears most administratively burdensome based on time, payment frequency, and overall tax burden.
 
+## Dashboard Preview
+
+![Dashboard Preview](images/dashboard_preview.png)
+
+> Replace `dashboard_preview.png` with the actual name of your uploaded screenshot.  
+> If your image is in the root folder instead of an `images/` folder, use:
+>
+> ```markdown
+> ![Dashboard Preview](your-image-name.png)
+> ```
+
 ## Project Overview
 
 The goal of this project is to build a transparent and practical analytics workflow for comparing tax administration complexity across economies.
