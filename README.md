@@ -8,12 +8,6 @@ This project uses **Python**, **pandas**, and **Power BI** to clean, merge, scor
 
 ![Dashboard Preview](images/dashboard_preview.png)
 
-> Replace `dashboard_preview.png` with the actual name of your uploaded screenshot.  
-> If your image is in the root folder instead of an `images/` folder, use:
->
-> ```markdown
-> ![Dashboard Preview](your-image-name.png)
-> ```
 
 ## Project Overview
 
